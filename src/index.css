@@ -1,0 +1,24 @@
+body {
+  margin: 40;
+  padding: 0;
+  font-family: sans-serif;
+  color: white; 
+  background: #37474F; 
+}
+
+.jumbotron{
+  background-color: #263238; 
+}
+
+.user-details{
+  padding: 10px;
+  background: #607D8B;
+  border-radius: 5px;
+}
+
+ul{
+  list-style: none;
+}
+.char-name{
+  color: yellow;
+}
